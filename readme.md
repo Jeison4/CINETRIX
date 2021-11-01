@@ -7,8 +7,7 @@
 ![carrito](https://user-images.githubusercontent.com/91749195/139725928-5350c594-132c-4523-a3ec-ac56945d7c17.png)
 
 
-
-Encuentra un variado catalogo de peliculas de todos los tiempos, y disfrutalas en tu hogar comprandolas en el mejor formato.
+- Encuentra un variado catalogo de peliculas de todos los tiempos, y disfrutalas en tu hogar comprandolas en el mejor formato.
 
 ~~~
 ARCHIVOS USADOS
