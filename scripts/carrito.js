@@ -22,8 +22,9 @@ function addToCarritoItem(e){
   }
 
   addItemCarrito(newItem)
-
+  
 }
+
 
 
 function addItemCarrito(newItem){
@@ -35,7 +36,7 @@ function addItemCarrito(newItem){
   }, 2000)
     alert.classList.remove('hide')
 
-  const InputElemnto = tbody.getElementByClassName('.input__elemento')
+  const InputElemnto = tbody.getElementsByClassName('input__elemento')
 
   for(let i =0; i < carrito.length ; i++){
     if(carrito[i].title.trim() === newItem.title.trim()){
